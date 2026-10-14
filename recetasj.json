@@ -1,0 +1,994 @@
+{
+  "recipes" : [
+    {
+      "name" : "Chilaquiles verdes",
+      "category": "Desayuno",
+      "procedure": "Freir tortillas, agregar salsa verde y cocinar con pollo desmenuzado, servir con crema y queso",
+      "author": {
+        "first": "Luis Angel",
+        "last": "Ramirez Soto"
+      },
+      "prepTime": {
+        "hour" : 0,
+        "minute": 35
+      },
+      "ingredients": [
+        {
+          "name": "Aceite",
+          "quantity": 3,
+          "unit": "cucharadas"
+        },
+        {
+          "name": "Cebolla",
+          "quantity": 0.5,
+          "unit": "unidad"
+        },
+        {
+          "name": "Cilantro",
+          "quantity": 1,
+          "unit": "manojo"
+        },
+        {
+          "name": "Crema",
+          "quantity": 2,
+          "unit": "cucharadas"
+        },
+        {
+          "name": "Huevo",
+          "quantity": 2,
+          "unit": "unidades"
+        },
+        {
+          "name": "Pollo",
+          "quantity": 1,
+          "unit": "taza"
+        },
+        {
+          "name": "Queso fresco",
+          "quantity": 80,
+          "unit": "gramos"
+        },
+        {
+          "name": "Sal",
+          "quantity": 1,
+          "unit": "pizca"
+        },
+        {
+          "name": "Salsa verde",
+          "quantity": 1,
+          "unit": "taza"
+        },
+        {
+          "name": "Tomate verde",
+          "quantity": 4,
+          "unit": "unidades"
+        },
+        {
+          "name": "Tortilla",
+          "quantity": 6,
+          "unit": "unidades"
+        }
+      ]
+    },
+    {
+      "name": "Spaghetti rojo",
+      "category": "Comida",
+      "procedure": "Cocer pasta al dente, preparar salsa con tomate, ajo y cebolla, mezclar todo y gratinar con queso",
+      "author": {
+        "first": "Andrea",
+        "last": "Gomez Lara"
+      },
+      "prepTime": {
+        "hour": 0,
+        "minute": 40
+      },
+      "ingredients": [
+        {
+          "name": "Aceite de oliva",
+          "quantity": 2,
+          "unit": "cucharadas"
+        },
+        {
+          "name": "Ajo",
+          "quantity": 3,
+          "unit": "dientes"
+        },
+        {
+          "name": "Albahaca",
+          "quantity": 1,
+          "unit": "manojo"
+        },
+        {
+          "name": "Cebolla",
+          "quantity": 1,
+          "unit": "unidad"
+        },
+        {
+          "name": "Oregano",
+          "quantity": 1,
+          "unit": "cucharadita"
+        },
+        {
+          "name": "Pasta spaghetti",
+          "quantity": 250,
+          "unit": "gramos"
+        },
+        {
+          "name": "Pimienta",
+          "quantity": 1,
+          "unit": "pizca"
+        },
+        {
+          "name": "Queso parmesano",
+          "quantity": 50,
+          "unit": "gramos"
+        },
+        {
+          "name": "Queso rallado",
+          "quantity": 50,
+          "unit": "gramos"
+        },
+        {
+          "name": "Sal",
+          "quantity": 1,
+          "unit": "cucharadita"
+        },
+        {
+          "name": "Salsa de tomate",
+          "quantity": 1,
+          "unit": "taza"
+        },
+        {
+          "name": "Tomate",
+          "quantity": 3,
+          "unit": "unidades"
+        }
+      ]
+    },
+    {
+      "name": "Tacos de carne",
+      "category": "Cena",
+      "procedure": "Cocinar la carne con cebolla y especias, servir en tortillas con cebolla picada, cilantro y limon",
+      "author": {
+        "first": "Miguel",
+        "last": "Ortega Ruiz"
+      },
+      "prepTime": {
+        "hour": 0,
+        "minute": 30
+      },
+      "ingredients": [
+        {
+          "name": "Aceite",
+          "quantity": 2,
+          "unit": "cucharadas"
+        },
+        {
+          "name": "Aguacate",
+          "quantity": 1,
+          "unit": "unidad"
+        },
+        {
+          "name": "Ajo",
+          "quantity": 2,
+          "unit": "dientes"
+        },
+        {
+          "name": "Carne",
+          "quantity": 200,
+          "unit": "gramos"
+        },
+        {
+          "name": "Cebolla",
+          "quantity": 1,
+          "unit": "unidad"
+        },
+        {
+          "name": "Cilantro",
+          "quantity": 1,
+          "unit": "manojo"
+        },
+        {
+          "name": "Comino",
+          "quantity": 1,
+          "unit": "cucharadita"
+        },
+        {
+          "name": "Limon",
+          "quantity": 2,
+          "unit": "unidades"
+        },
+        {
+          "name": "Pimienta",
+          "quantity": 1,
+          "unit": "pizca"
+        },
+        {
+          "name": "Sal",
+          "quantity": 1,
+          "unit": "cucharadita"
+        },
+        {
+          "name": "Salsa picante",
+          "quantity": 0.5,
+          "unit": "taza"
+        },
+        {
+          "name": "Tortilla",
+          "quantity": 6,
+          "unit": "unidades"
+        }
+      ]
+    },
+    {
+      "name": "Lasaña",
+      "category": "Comida",
+      "procedure": "Armar capas de pasta, carne y queso con bechamel, luego hornear hasta gratinar",
+      "author": {
+        "first": "Patricia",
+        "last": "Fernandez Cruz"
+      },
+      "prepTime": {
+        "hour": 1,
+        "minute": 30
+      },
+      "ingredients": [
+        {
+          "name": "Aceite de oliva",
+          "quantity": 2,
+          "unit": "cucharadas"
+        },
+        {
+          "name": "Ajo",
+          "quantity": 2,
+          "unit": "dientes"
+        },
+        {
+          "name": "Bechamel",
+          "quantity": 2,
+          "unit": "tazas"
+        },
+        {
+          "name": "Carne molida",
+          "quantity": 300,
+          "unit": "gramos"
+        },
+        {
+          "name": "Cebolla",
+          "quantity": 1,
+          "unit": "unidad"
+        },
+        {
+          "name": "Harina",
+          "quantity": 2,
+          "unit": "cucharadas"
+        },
+        {
+          "name": "Hojas de lasaña",
+          "quantity": 12,
+          "unit": "piezas"
+        },
+        {
+          "name": "Leche",
+          "quantity": 1,
+          "unit": "taza"
+        },
+        {
+          "name": "Mantequilla",
+          "quantity": 50,
+          "unit": "gramos"
+        },
+        {
+          "name": "Oregano",
+          "quantity": 1,
+          "unit": "cucharadita"
+        },
+        {
+          "name": "Queso mozzarella",
+          "quantity": 200,
+          "unit": "gramos"
+        },
+        {
+          "name": "Queso parmesano",
+          "quantity": 50,
+          "unit": "gramos"
+        },
+        {
+          "name": "Sal",
+          "quantity": 1,
+          "unit": "cucharadita"
+        },
+        {
+          "name": "Salsa de tomate",
+          "quantity": 2,
+          "unit": "tazas"
+        }
+      ]
+    },
+    {
+      "name": "Avena con fruta",
+      "category": "Desayuno",
+      "procedure": "Cocer avena con leche y canela, agregar fruta picada y endulzar con miel al gusto",
+      "author": {
+        "first": "Sofia",
+        "last": "Vega Morales"
+      },
+      "prepTime": {
+        "hour": 0,
+        "minute": 15
+      },
+      "ingredients": [
+        {
+          "name": "Almendras",
+          "quantity": 20,
+          "unit": "gramos"
+        },
+        {
+          "name": "Avena",
+          "quantity": 1,
+          "unit": "taza"
+        },
+        {
+          "name": "Canela",
+          "quantity": 1,
+          "unit": "cucharadita"
+        },
+        {
+          "name": "Chispas de chocolate",
+          "quantity": 1,
+          "unit": "cucharada"
+        },
+        {
+          "name": "Fresas",
+          "quantity": 5,
+          "unit": "unidades"
+        },
+        {
+          "name": "Leche",
+          "quantity": 1,
+          "unit": "taza"
+        },
+        {
+          "name": "Manzana",
+          "quantity": 1,
+          "unit": "unidad"
+        },
+        {
+          "name": "Miel",
+          "quantity": 1,
+          "unit": "cucharada"
+        },
+        {
+          "name": "Nueces",
+          "quantity": 20,
+          "unit": "gramos"
+        },
+        {
+          "name": "Pasas",
+          "quantity": 1,
+          "unit": "cucharada"
+        },
+        {
+          "name": "Platano",
+          "quantity": 1,
+          "unit": "unidad"
+        },
+        {
+          "name": "Yogurt natural",
+          "quantity": 0.5,
+          "unit": "taza"
+        }
+      ]
+    },
+    {
+      "name": "Enchiladas rojas",
+      "category": "Comida",
+      "procedure": "Rellenar tortillas con pollo, bañar en salsa roja, freir ligeramente y gratinar con queso",
+      "author": {
+        "first": "Diego",
+        "last": "Castro Nunez"
+      },
+      "prepTime": {
+        "hour": 0,
+        "minute": 50
+      },
+      "ingredients": [
+        {
+          "name": "Aceite",
+          "quantity": 0.5,
+          "unit": "taza"
+        },
+        {
+          "name": "Ajo",
+          "quantity": 3,
+          "unit": "dientes"
+        },
+        {
+          "name": "Cebolla",
+          "quantity": 1,
+          "unit": "unidad"
+        },
+        {
+          "name": "Chile guajillo",
+          "quantity": 4,
+          "unit": "unidades"
+        },
+        {
+          "name": "Cilantro",
+          "quantity": 1,
+          "unit": "manojo"
+        },
+        {
+          "name": "Crema",
+          "quantity": 0.5,
+          "unit": "taza"
+        },
+        {
+          "name": "Lechuga",
+          "quantity": 0.25,
+          "unit": "pieza"
+        },
+        {
+          "name": "Pollo deshebrado",
+          "quantity": 300,
+          "unit": "gramos"
+        },
+        {
+          "name": "Queso",
+          "quantity": 100,
+          "unit": "gramos"
+        },
+        {
+          "name": "Rabano",
+          "quantity": 3,
+          "unit": "unidades"
+        },
+        {
+          "name": "Sal",
+          "quantity": 1,
+          "unit": "cucharadita"
+        },
+        {
+          "name": "Salsa roja",
+          "quantity": 2,
+          "unit": "tazas"
+        },
+        {
+          "name": "Tortilla",
+          "quantity": 8,
+          "unit": "unidades"
+        }
+      ]
+    },
+    {
+      "name": "Quesadillas",
+      "category": "Cena",
+      "procedure": "Colocar queso y guisado dentro de tortilla, doblar y calentar hasta que derrita el queso",
+      "author": {
+        "first": "Mariana",
+        "last": "Rojas Perez"
+      },
+      "prepTime": {
+        "hour": 0,
+        "minute": 20
+      },
+      "ingredients": [
+        {
+          "name": "Aceite",
+          "quantity": 1,
+          "unit": "cucharada"
+        },
+        {
+          "name": "Cebolla",
+          "quantity": 0.5,
+          "unit": "unidad"
+        },
+        {
+          "name": "Champinones",
+          "quantity": 100,
+          "unit": "gramos"
+        },
+        {
+          "name": "Crema",
+          "quantity": 0.25,
+          "unit": "taza"
+        },
+        {
+          "name": "Epazote",
+          "quantity": 5,
+          "unit": "hojas"
+        },
+        {
+          "name": "Flor de calabaza",
+          "quantity": 1,
+          "unit": "manojo"
+        },
+        {
+          "name": "Frijoles",
+          "quantity": 0.5,
+          "unit": "taza"
+        },
+        {
+          "name": "Mantequilla",
+          "quantity": 1,
+          "unit": "cucharada"
+        },
+        {
+          "name": "Pimienta",
+          "quantity": 1,
+          "unit": "pizca"
+        },
+        {
+          "name": "Queso",
+          "quantity": 200,
+          "unit": "gramos"
+        },
+        {
+          "name": "Sal",
+          "quantity": 1,
+          "unit": "pizca"
+        },
+        {
+          "name": "Salsa verde",
+          "quantity": 0.5,
+          "unit": "taza"
+        },
+        {
+          "name": "Tortilla",
+          "quantity": 4,
+          "unit": "unidades"
+        }
+      ]
+    },
+    {
+      "name": "Pescado empanizado",
+      "category": "Comida",
+      "procedure": "Sazonar el pescado, pasar por huevo y pan molido, freir en aceite caliente hasta dorar",
+      "author": {
+        "first": "Jorge",
+        "last": "Navarro Diaz"
+      },
+      "prepTime": {
+        "hour": 0,
+        "minute": 45
+      },
+      "ingredients": [
+        {
+          "name": "Aceite",
+          "quantity": 1,
+          "unit": "taza"
+        },
+        {
+          "name": "Ajo en polvo",
+          "quantity": 1,
+          "unit": "cucharadita"
+        },
+        {
+          "name": "Filete de pescado",
+          "quantity": 4,
+          "unit": "piezas"
+        },
+        {
+          "name": "Harina",
+          "quantity": 0.5,
+          "unit": "taza"
+        },
+        {
+          "name": "Huevo",
+          "quantity": 2,
+          "unit": "unidades"
+        },
+        {
+          "name": "Limon",
+          "quantity": 2,
+          "unit": "unidades"
+        },
+        {
+          "name": "Mayonesa",
+          "quantity": 0.25,
+          "unit": "taza"
+        },
+        {
+          "name": "Pan molido",
+          "quantity": 1,
+          "unit": "taza"
+        },
+        {
+          "name": "Papas fritas",
+          "quantity": 200,
+          "unit": "gramos"
+        },
+        {
+          "name": "Perejil",
+          "quantity": 1,
+          "unit": "manojo"
+        },
+        {
+          "name": "Pimienta",
+          "quantity": 1,
+          "unit": "pizca"
+        },
+        {
+          "name": "Sal",
+          "quantity": 1,
+          "unit": "cucharadita"
+        }
+      ]
+    },
+    {
+      "name": "Molletes",
+      "category": "Desayuno",
+      "procedure": "Untar mantequilla y frijoles refritos en el pan, agregar queso y gratinar, servir con pico de gallo",
+      "author": {
+        "first": "Fernanda",
+        "last": "Salazar Torres"
+      },
+      "prepTime": {
+        "hour": 0,
+        "minute": 25
+      },
+      "ingredients": [
+        {
+          "name": "Aguacate",
+          "quantity": 1,
+          "unit": "unidad"
+        },
+        {
+          "name": "Cebolla",
+          "quantity": 0.5,
+          "unit": "unidad"
+        },
+        {
+          "name": "Chile serrano",
+          "quantity": 1,
+          "unit": "unidad"
+        },
+        {
+          "name": "Chorizo",
+          "quantity": 100,
+          "unit": "gramos"
+        },
+        {
+          "name": "Cilantro",
+          "quantity": 1,
+          "unit": "manojo"
+        },
+        {
+          "name": "Frijoles refritos",
+          "quantity": 1,
+          "unit": "taza"
+        },
+        {
+          "name": "Limon",
+          "quantity": 1,
+          "unit": "unidad"
+        },
+        {
+          "name": "Mantequilla",
+          "quantity": 2,
+          "unit": "cucharadas"
+        },
+        {
+          "name": "Pan bolillo",
+          "quantity": 2,
+          "unit": "piezas"
+        },
+        {
+          "name": "Queso",
+          "quantity": 150,
+          "unit": "gramos"
+        },
+        {
+          "name": "Sal",
+          "quantity": 1,
+          "unit": "pizca"
+        },
+        {
+          "name": "Tomate",
+          "quantity": 1,
+          "unit": "unidad"
+        }
+      ]
+    },
+    {
+      "name": "Tamales",
+      "category": "Navideno",
+      "procedure": "Preparar masa con manteca y caldo, rellenar con guisado, envolver en hojas y cocer al vapor",
+      "author": {
+        "first": "Rosa",
+        "last": "Gutierrez Lopez"
+      },
+      "prepTime": {
+        "hour": 2,
+        "minute": 0
+      },
+      "ingredients": [
+        {
+          "name": "Ajo",
+          "quantity": 3,
+          "unit": "dientes"
+        },
+        {
+          "name": "Caldo de pollo",
+          "quantity": 2,
+          "unit": "tazas"
+        },
+        {
+          "name": "Carne",
+          "quantity": 300,
+          "unit": "gramos"
+        },
+        {
+          "name": "Cebolla",
+          "quantity": 1,
+          "unit": "unidad"
+        },
+        {
+          "name": "Chile ancho",
+          "quantity": 4,
+          "unit": "unidades"
+        },
+        {
+          "name": "Comino",
+          "quantity": 1,
+          "unit": "cucharadita"
+        },
+        {
+          "name": "Hojas de maiz",
+          "quantity": 20,
+          "unit": "unidades"
+        },
+        {
+          "name": "Manteca",
+          "quantity": 250,
+          "unit": "gramos"
+        },
+        {
+          "name": "Masa de maiz",
+          "quantity": 1,
+          "unit": "kilo"
+        },
+        {
+          "name": "Polvo para hornear",
+          "quantity": 1,
+          "unit": "cucharadita"
+        },
+        {
+          "name": "Sal",
+          "quantity": 1,
+          "unit": "cucharada"
+        },
+        {
+          "name": "Salsa roja",
+          "quantity": 2,
+          "unit": "tazas"
+        }
+      ]
+    },
+    {
+      "name": "Pan frances",
+      "category": "Desayuno",
+      "procedure": "Mezclar huevo, leche, azucar y canela, remojar pan en la mezcla y freir hasta dorar ambos lados",
+      "author": {
+        "first": "Ricardo",
+        "last": "Delgado Ortiz"
+      },
+      "prepTime": {
+        "hour": 0,
+        "minute": 20
+      },
+      "ingredients": [
+        {
+          "name": "Azucar",
+          "quantity": 2,
+          "unit": "cucharadas"
+        },
+        {
+          "name": "Azucar glass",
+          "quantity": 1,
+          "unit": "cucharada"
+        },
+        {
+          "name": "Canela",
+          "quantity": 1,
+          "unit": "cucharadita"
+        },
+        {
+          "name": "Esencia de vainilla",
+          "quantity": 1,
+          "unit": "cucharadita"
+        },
+        {
+          "name": "Fresas",
+          "quantity": 100,
+          "unit": "gramos"
+        },
+        {
+          "name": "Huevo",
+          "quantity": 2,
+          "unit": "unidades"
+        },
+        {
+          "name": "Leche",
+          "quantity": 1,
+          "unit": "taza"
+        },
+        {
+          "name": "Mantequilla",
+          "quantity": 3,
+          "unit": "cucharadas"
+        },
+        {
+          "name": "Miel de maple",
+          "quantity": 0.25,
+          "unit": "taza"
+        },
+        {
+          "name": "Pan",
+          "quantity": 4,
+          "unit": "rebanadas"
+        },
+        {
+          "name": "Sal",
+          "quantity": 1,
+          "unit": "pizca"
+        }
+      ]
+    },
+    {
+      "name": "Pizza casera",
+      "category": "Cena",
+      "procedure": "Extender la masa, agregar salsa, queso e ingredientes al gusto, hornear hasta que el queso derrita",
+      "author": {
+        "first": "Daniel",
+        "last": "Flores Castillo"
+      },
+      "prepTime": {
+        "hour": 1,
+        "minute": 10
+      },
+      "ingredients": [
+        {
+          "name": "Aceite de oliva",
+          "quantity": 2,
+          "unit": "cucharadas"
+        },
+        {
+          "name": "Aceitunas",
+          "quantity": 50,
+          "unit": "gramos"
+        },
+        {
+          "name": "Champinones",
+          "quantity": 100,
+          "unit": "gramos"
+        },
+        {
+          "name": "Harina",
+          "quantity": 300,
+          "unit": "gramos"
+        },
+        {
+          "name": "Levadura",
+          "quantity": 1,
+          "unit": "cucharadita"
+        },
+        {
+          "name": "Masa pizza",
+          "quantity": 1,
+          "unit": "pieza"
+        },
+        {
+          "name": "Oregano",
+          "quantity": 1,
+          "unit": "cucharadita"
+        },
+        {
+          "name": "Pepperoni",
+          "quantity": 100,
+          "unit": "gramos"
+        },
+        {
+          "name": "Pimiento",
+          "quantity": 1,
+          "unit": "unidad"
+        },
+        {
+          "name": "Queso mozzarella",
+          "quantity": 200,
+          "unit": "gramos"
+        },
+        {
+          "name": "Sal",
+          "quantity": 1,
+          "unit": "cucharadita"
+        },
+        {
+          "name": "Salsa de tomate",
+          "quantity": 1,
+          "unit": "taza"
+        }
+      ]
+    },
+    {
+      "name": "Pierna al horno",
+      "category": "Navideno",
+      "procedure": "Sazonar la pierna con jugo, especias y ajo, marinar varias horas y hornear lentamente hasta suave",
+      "author": {
+        "first": "Alberto",
+        "last": "Herrera Campos"
+      },
+      "prepTime": {
+        "hour": 2,
+        "minute": 30
+      },
+      "ingredients": [
+        {
+          "name": "Aceite de oliva",
+          "quantity": 3,
+          "unit": "cucharadas"
+        },
+        {
+          "name": "Ajo",
+          "quantity": 6,
+          "unit": "dientes"
+        },
+        {
+          "name": "Cebolla",
+          "quantity": 2,
+          "unit": "unidades"
+        },
+        {
+          "name": "Ciruela pasa",
+          "quantity": 100,
+          "unit": "gramos"
+        },
+        {
+          "name": "Hojas de laurel",
+          "quantity": 4,
+          "unit": "hojas"
+        },
+        {
+          "name": "Jugo de naranja",
+          "quantity": 2,
+          "unit": "tazas"
+        },
+        {
+          "name": "Mostaza",
+          "quantity": 2,
+          "unit": "cucharadas"
+        },
+        {
+          "name": "Pierna de cerdo",
+          "quantity": 1,
+          "unit": "pieza"
+        },
+        {
+          "name": "Pimienta",
+          "quantity": 1,
+          "unit": "cucharadita"
+        },
+        {
+          "name": "Romero",
+          "quantity": 2,
+          "unit": "ramitas"
+        },
+        {
+          "name": "Sal",
+          "quantity": 2,
+          "unit": "cucharadas"
+        },
+        {
+          "name": "Tomillo",
+          "quantity": 1,
+          "unit": "cucharadita"
+        },
+        {
+          "name": "Vino blanco",
+          "quantity": 1,
+          "unit": "taza"
+        }
+      ]
+    }
+  ]
+}
